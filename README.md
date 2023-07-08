@@ -1,2 +1,6 @@
 # UAS_KOMPUTERGRAFIK_RIFQIAFIF
-this my source code
+this my source code dont use anymore
+NAMA:RIFQI AFIF
+KELAS:06tple006
+Nim:201011401822
+MATKul:UAS KOMPUTERGRAFIK
